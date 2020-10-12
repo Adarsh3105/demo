@@ -1,1 +1,1 @@
-nltk.word_tokenizer
+nltk.tokenize
